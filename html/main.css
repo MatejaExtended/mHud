@@ -1,0 +1,99 @@
+@font-face {
+	font-family: 'Pricedown';
+	src: url('fonts/pdown.ttf')
+}
+
+.container {
+    display: inline;
+    max-width: 15%;
+}
+
+.bank {
+    font-family: 'Pricedown';
+    color: rgb(230, 230, 230);
+    margin-top: -6px;
+    margin-right: 10px;
+    min-width: 50px;
+    float: right;
+    text-transform: uppercase;
+}
+
+.cash {
+    font-family: 'Pricedown';
+    color: rgb(230, 230, 230);
+    margin-top: -6px;
+    margin-right: 10px;
+    min-width: 50px;
+    float: right;
+    text-transform: uppercase;
+}
+
+.black_money {
+    font-family: 'Pricedown';
+    color: rgb(230, 230, 230);
+    margin-top: -6px;
+    margin-right: 10px;
+    min-width: 50px;
+    float: right;
+    text-transform: uppercase;
+}
+
+.item-job {
+    position: absolute;
+    font-family: 'Pricedown';
+    color: rgb(230, 230, 230);
+    top: 4%;
+    right: 0.1%;
+    min-width: 50px;
+    float: right;
+    text-transform: uppercase;
+}
+
+
+.text-right {
+    font-size: 20px;
+    padding-left: 10px;
+    letter-spacing: 3px;
+    text-shadow: 1px 0px 9px #000000FF, -1px 0px 0px #000000FF, 0px -1px 0px #000000FF, 0px 1px 5px #000000FF;
+    display: inline;
+    color: rgb(255, 255, 255);
+}
+
+.job-text {
+    font-size: 20px;
+    padding-left: 10px;
+    letter-spacing: 3px;
+    text-shadow: 1px 0px 9px #000000FF, -1px 0px 0px #000000FF, 0px -1px 0px #000000FF, 0px 1px 5px #000000FF;
+    display: inline;
+    color: rgb(255, 255, 255);
+}
+
+#main img {
+    width: 36px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-transform: uppercase;
+}
+
+.cont {
+    width: 14px;
+    height: 14px;
+    position: relative;
+    padding: 5px;
+    margin-right: 5px;
+    text-align: center;
+    float: right;
+}
+
+.contt {
+    width: 14px;
+    height: 14px;
+    position: relative;
+    padding: 5px;
+    margin-right: 5px;
+    text-align: center;
+    float: right;
+}
